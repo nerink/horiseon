@@ -1,6 +1,17 @@
-<<<<<<< HEAD
-# Code Refactor Starter Code
-=======
-# horiseon-webpage
-Weekly Challenge #1-Accessibility Challenge 
->>>>>>> 3542450b9d2f09e14d03f4adf44a424df5a473a9
+# Horiseon Webpage- Accessibility Enhancements-Code Refactor
+# Horiseon Social Solution Services, Inc.
+
+## Purpose
+A website that offers marketing services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+
+
+## Contribution
+Enhanced to include AODA standards by Nerin Kaur 
+
+### ©️2019 Run Buddy, Inc 
